@@ -45,7 +45,7 @@
   <section class="site-card">
     <p>
       Questions or concerns? Email
-      <a href="mailto:support@capitolcrawler.com?subject=capitolhillcrawler%20privacy">support@capitolcrawler.com</a>.
+      <a href="mailto:support@teacher.dev?subject=capitolhillcrawler%20privacy">support@teacher.dev</a>.
     </p>
   </section>
 </SitePage>
